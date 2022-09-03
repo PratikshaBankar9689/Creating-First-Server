@@ -4,18 +4,19 @@
   "description": "First node.js server",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "dev":"nodemon server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PratikshaBankar9689/First-Server.git"
+    "url": "git+https://github.com/PratikshaBankar9689/Creating-First-Server.git"
   },
   "author": "Pratiksha Bankar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PratikshaBankar9689/First-Server/issues"
+    "url": "https://github.com/PratikshaBankar9689/Creating-First-Server/issues"
   },
-  "homepage": "https://github.com/PratikshaBankar9689/First-Server#readme",
+  "homepage": "https://github.com/PratikshaBankar9689/Creating-First-Server#readme",
   "dependencies": {
     "nodemon": "^2.0.19"
   }
